@@ -1,24 +1,23 @@
-# ABN
+<div align="center">
 
-Добре дошли в **ABN**! 👋
+<img src="https://abn-bg.online/icon-512.png" width="80" />
 
-ABN започна като малък екип от двама души, които просто правеха проекти в Discord и онлайн средата. Постепенно се превърнахме в екип, който изгражда реални системи – хостинг, автоматизация, backend решения, ботове и вътрешни инструменти.  
+# ABN BG
 
-Работим директно, без излишни обещания и без фалшив блясък.
+Хостинг · Backend · Автоматизации · Уеб разработки
 
-## 🌈 Как да се включиш
+[![Website](https://img.shields.io/badge/abn--bg.online-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abn-bg.online)
+[![Email](https://img.shields.io/badge/support@abn--bg.online-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@abn-bg.online)
+[![Instagram](https://img.shields.io/badge/@abn__bg.online-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abn_bg.online)
 
-Искаш да помогнеш за нашите проекти? Можеш да допринесеш чрез:
+---
 
-- Докладване на проблеми или бъгове  
-- Предложения за нови функции  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## 👩‍💻 Полезни връзки
+<sub>Направено в България 🇧🇬</sub>
 
-- [Главен сайт](https://abn-bg.online)  
-- [Магазин / Услуги](https://store.abn-bg.online)  
-
-## 🍿 Забавни факти
-
-- Някой от програмистите ни обичат да програмират на музика и в късните часове 🎧🌙
-- Дори когато кажем „всичко е перфектно“, след седмица ще открием още какво може да се подобри! 🔍✨
+</div>
