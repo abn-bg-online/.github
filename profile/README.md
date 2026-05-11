@@ -1,57 +1,79 @@
 <div align="center">
 
-<img src="https://abn-bg.online/icon-512.png" width="100" style="border-radius: 20px;" />
+<img src="https://abn-bg.online/icon-512.png" width="120" alt="ABN BG" />
 
 <br/>
 <br/>
 
-# ABN BG
-
-### Изграждаме дигиталната инфраструктура на българския бизнес.
+**Дигитална инфраструктура за реалния бизнес.**
+*Хостинг, backend решения и уеб разработки — бързо, честно, без излишно.*
 
 <br/>
-
-[![Website](https://img.shields.io/badge/🌐%20abn--bg.online-000000?style=for-the-badge)](https://abn-bg.online)
-[![Email](https://img.shields.io/badge/📧%20Имейл-EA4335?style=for-the-badge)](mailto:support@abn-bg.online)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-E1306C?style=for-the-badge)](https://instagram.com/abn.bulgaria)
 
 </div>
+
+---
+
+## За ABN BG
+
+ABN BG е българска техническа компания която проектира и изгражда дигитална инфраструктура за малки бизнеси и фрийлансъри. Работим на пресечната точка на **хостинг**, **backend инженеринг** и **уеб разработки** — и доставяме цялото като единна услуга.
+
+Не сме корпорация. Говорим директно, работим бързо и стоим зад всяко решение което взимаме.
+
+> *"Бързо. Честно. Без излишни разговори."*
 
 ---
 
 ## Какво правим
 
-```txt
-🖥️  Хостинг инфраструктура   →   Бърза, надеждна, в България
-⚙️  Backend решения           →   API-та, бази данни, автоматизации  
-🌐  Уеб разработки            →   Модерни сайтове с Next.js + TypeScript
-🤝  За малки бизнеси          →   Без корпоративен език. Реални хора.
+| Услуга | Описание |
+|---|---|
+| **Хостинг инфраструктура** | Бърза и надеждна хостинг среда, поддържана в България |
+| **Backend решения** | API-та, бази данни, сървърна логика и интеграции |
+| **Автоматизации** | Премахване на ръчен труд чрез автоматизирани процеси |
+| **Уеб разработки** | Модерни, бързи сайтове изградени с Next.js и TypeScript |
+
+---
+
+## Нашите принципи
+
+- **Скорост** — бързо внедряване, бързи отговори, без чакане
+- **Прозрачност** — ясни цени, ясна комуникация, никакви изненади
+- **Качество** — всеки проект е изграден да работи дългосрочно
+- **Достъпност** — корпоративни решения на цени за малкия бизнес
+
+---
+
+## Технологии
+
+```
+
+Frontend    →  Next.js · TypeScript · Tailwind CSS
+Инфра       →  Vercel · Cloudflare · Node.js
+Комуникация →  Zoho Mail · support@abn-bg.online
+
 ```
 
 ---
 
-## Стек
+## Работа с нас
 
-<div align="center">
+Имаш проект? Свържи се директно — без формуляри, без чакане.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-</div>
+- 🌐 **Сайт:** [abn-bg.online](https://abn-bg.online)
+- 📧 **Имейл:** support@abn-bg.online
+- 📸 **Instagram:** [@abn.bulgaria](https://instagram.com/abn.bulgaria)
 
 ---
 
 <div align="center">
 
-**Имаш проект? Пиши ни.**
-
-[abn-bg.online](https://abn-bg.online) · support@abn-bg.online
-
 <br/>
 
-<sub>© 2026 ABN BG · Направено в България 🇧🇬</sub>
+<sub>© 2025–2026 ABN BG · Всички права запазени · Направено в България 🇧🇬</sub>
+
+<br/><br/>
+
+*Дигитална инфраструктура за реалния бизнес.*
 
 </div>
