@@ -48,9 +48,8 @@ ABN BG е българска техническа компания която п
 
 ```
 
-Frontend    →  Next.js · TypeScript · Tailwind CSS
-Инфра       →  Vercel · Cloudflare · Node.js
-Комуникация →  Zoho Mail · support@abn-bg.online
+Frontend и backend   →  Next.js · TypeScript · Tailwind CSS
+
 
 ```
 
