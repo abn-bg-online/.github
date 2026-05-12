@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://abn-bg.online/img/logoFull.png" alt="ABN BG" width="220" />
+<img src="https://abn-bg.online/img/logoFull.png" alt="ABN BG" />
 
 # ABN BG
 
